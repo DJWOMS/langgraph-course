@@ -1,0 +1,12 @@
+# Курс по LangGraph. Закреплённые версии, на которых получен вывод примеров в уроках.
+# Python 3.12, Windows 11. Пакетам langgraph и langchain нужен Python 3.10 или новее.
+# langgraph-checkpoint-sqlite и aiosqlite нужны с урока 5.
+
+langchain[openai]==1.4.2
+langchain-core==1.6.3
+langchain-openai==1.6.2
+langgraph==1.2.11
+langgraph-checkpoint==4.2.0
+langgraph-checkpoint-sqlite==3.1.1
+aiosqlite==0.22.1
+python-dotenv==1.2.3
