@@ -70,7 +70,7 @@ mixed.add_edge("deep_scan", END)
 print("2. Command и ребро вместе:", mixed.compile().invoke({"root": str(REPO), "limit": 10})["report"])
 
 
-# 3. Command на END: разбирать нечего, запуск кончается в первом узле.
+# 3. Command на END: разбирать нечего, запуск заканчивается в первом узле.
 def collect_or_stop(state: ScanState) -> Command[Literal["quick_scan", "__end__"]]:
     """Файлов не нашлось, значит дальше идти незачем."""
     names = sorted(path.name for path in Path(state["root"]).glob("*.py"))

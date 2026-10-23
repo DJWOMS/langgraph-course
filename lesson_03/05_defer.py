@@ -101,7 +101,7 @@ def build(*, defer: bool, list_edge: bool, conditional: bool) -> object:
 
 start = {"root": str(REPO), "which": "обе"}
 
-# 1. Отдельные рёбра: карточка собирается дважды, ветки кончаются в разных шагах.
+# 1. Отдельные рёбра: карточка собирается дважды, ветки заканчиваются в разных шагах.
 print("1. отдельные рёбра")
 print("   карточки:", build(defer=False, list_edge=False, conditional=False).invoke(start)["cards"])
 
