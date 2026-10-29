@@ -47,3 +47,4 @@ python 01_first_graph.py
 - Урок 3: [Ветвление: условные рёбра, Command и Send](https://aisferaic.ru/blog/tutorials/1476/)
 - Урок 4: [Циклы и остановка](https://aisferaic.ru/blog/tutorials/1477/)
 - Урок 5: [Checkpointer: сохранение, продолжение и возврат назад](https://aisferaic.ru/blog/tutorials/1478/)
+- Урок 6: [Пауза и человек в цикле](https://aisferaic.ru/blog/tutorials/1479/)
