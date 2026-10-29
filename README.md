@@ -51,3 +51,4 @@ python 01_first_graph.py
 - Урок 5: [Checkpointer: сохранение, продолжение и возврат назад](https://aisferaic.ru/blog/tutorials/1478/)
 - Урок 6: [Пауза и человек в цикле](https://aisferaic.ru/blog/tutorials/1479/)
 - Урок 7: [Подграфы: слой как отдельный граф](https://aisferaic.ru/blog/tutorials/1480/)
+- Урок 8: [Когда узел падает: повторы, таймауты и отладка графа](https://aisferaic.ru/blog/tutorials/1481/)
